@@ -5,7 +5,6 @@ applications:
   domain: au-syd.mybluemix.net
   name: ExpressHari9
   host: ExpressHari9
-  disk_quota: 1024M
   services:
   - Cloudant NoSQL DB
  
