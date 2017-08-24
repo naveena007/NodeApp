@@ -15,7 +15,7 @@ var app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 
-app.get('/index',function(req,res){
+app.get('',function(req,res){
 	res.sendFile(__dirname+'/'+'index.html');
 })
  app.post('/l',function(req,res){
