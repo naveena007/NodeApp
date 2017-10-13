@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: au-syd.mybluemix.net
-  name: ExpressHari9
-  host: ExpressHari9
+  name: ExpressHari999
+  host: ExpressHari999
   services:
-  - Cloudant NoSQL DB
+  - Cloudant NoSQL DB-fo
  
